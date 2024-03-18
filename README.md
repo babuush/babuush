@@ -3,7 +3,7 @@ Hi 👋 My name is Thanapat Piyamassakul
 Data Engineering Student 
 ------------------------  
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning the Flask framework
+* 🧠  I'm learning the Apache Airflow
 
 ### Skills  
 
