@@ -4,6 +4,7 @@ Data Engineering Student
 ------------------------  
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning DataRockie's Data Science Bootcamp
+* 📖  I'm reading Naked Statistics ;)
 
 ### Skills  
 
